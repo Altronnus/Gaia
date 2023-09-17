@@ -1,0 +1,659 @@
+
+html,body{
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  overflow-x:hidden;
+}
+html {
+	font-size:110%;
+}
+* {
+  margin: 0;
+  padding: 0;
+  font-size: 35px;
+}
+a {
+  color: #2cc197; 
+  text-decoration: none; 
+}
+
+a:hover,
+a:active {
+  color: #ff9d00; 
+}
+
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 176.3rem;
+}.dr-tSj {
+  width: 100%;
+  height: 609.4rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+.dr-tSj .rectangle-13-Fgb {
+  width: 175.3rem;
+  height: 113.4rem;
+  position: absolute;
+  left: 0.1rem;
+  top: 113.4rem;
+  background-color: #f7faf6;
+}
+.dr-tSj .rectangle-22-Xe7 {
+  width: 175.3rem;
+  height: 113.4rem;
+  position: absolute;
+  left: 0;
+  top: 340.2rem;
+  background-color: #f7faf6;
+}
+.dr-tSj .rectangle-12-oLj {
+  width: 175.3rem;
+  height: 113.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #538b27;
+}
+.dr-tSj .derevnya-1-8to {
+  width: 192rem;
+  height: 108rem;
+  position: absolute;
+  left: 0;
+  top: 5.4rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.dr-tSj .rectangle-15-FCj {
+  width: 175.3rem;
+  height: 113.4rem;
+  position: absolute;
+  left: 0;
+  top: 226.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.dr-tSj .line-1-ZjD {
+  width: 175.3rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 0;
+  top: 113.4rem;
+  background-color: #000000;
+}
+.dr-tSj .slogan-haX {
+  width: 107.4rem;
+  height: 39.2rem;
+  position: absolute;
+  left: 10.1rem;
+  top: 33.1rem;
+  font-size: 10rem;
+  font-weight: 400;
+  line-height: 1.4;
+  color: #ffffff;
+  font-family: 'Poppins', sans-serif;
+  white-space: nowrap;
+}
+.dr-tSj .about-us-9SX {
+  width: 95.3rem;
+  height: 28rem;
+  position: absolute;
+  left: 7.8rem;
+  top: 138.1rem;
+  font-size: 20rem;
+  font-weight: 400;
+  line-height: 1.4;
+  color: #538b27;
+  font-family: 'Abril Fatface', serif;
+  white-space: nowrap;
+}
+.dr-tSj .our-goals-SAj {
+  width: 109.2rem;
+  height: 28rem;
+  position: absolute;
+  left: 57.8rem;
+  top: 344.3rem;
+  font-size: 20rem;
+  font-weight: 400;
+  line-height: 1.4;
+  color: #538b27;
+  font-family: Bakbak One, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.dr-tSj .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elitnchjbfhb-Vuh {
+  width: 118.3rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 51.5rem;
+  top: 65.4rem;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.4;
+  color: #ffffff;
+  font-family: "monospace", "Consolas", sans-serif;
+  white-space: nowrap;
+}
+.dr-tSj .frame-1-msD {
+  width: 25.5664rem;
+  height: 5.8709rem;
+  position: absolute;
+  left: 7.1rem;
+  top: 7.1rem;
+  display: flex;
+  align-items: center;
+}
+.dr-tSj .frame-1-msD .asdaw-1-4jq {
+  margin-right: 1.4rem;
+  width: 5.8709rem;
+  height: 5.8709rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dr-tSj .frame-1-msD .gaia-mu9 {
+  width: 18.2955rem;
+  height: 5.0517rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dr-tSj .about-us-button-KQs {
+  width: 11.5rem;
+  height: 3.4rem;
+  position: absolute;
+  left: 133.6rem;
+  top: 8.1rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.4;
+  color: #ffffff;
+  font-family: Bakbak One, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.dr-tSj .about-us-button-aLo {
+  width: 11.5rem;
+  height: 3.4rem;
+  position: absolute;
+  left: 149.1rem;
+  top: 8.1rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.4;
+  color: #ffffff;
+  font-family: Bakbak One, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.dr-tSj .about-us-button-52f {
+  height: 3.4rem;
+  position: absolute;
+  left: 110.2rem;
+  top: 8.1rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.4;
+  color: #ffffff;
+  font-family: Bakbak One, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.dr-tSj .rectangle-14-button-z9d {
+  width: 17.7rem;
+  height: 3.7rem;
+  position: absolute;
+  left: 72.3rem;
+  top: 75.2rem;
+  background-color: #f1f1e5;
+  border-radius: 2.3rem;
+}
+.dr-tSj .rectangle-17-uXV {
+  width: 28.8rem;
+  height: 31rem;
+  position: absolute;
+  left: 135.7rem;
+  top: 274.7rem;
+  background-color: #f1f1e5;
+}
+.dr-tSj .rectangle-18-F5Z {
+  width: 28.8rem;
+  height: 31rem;
+  position: absolute;
+  left: 94.1rem;
+  top: 274.7rem;
+  background-color: #f1f1e5;
+}
+.dr-tSj .rectangle-20-nbH {
+  width: 50.5rem;
+  height: 31.3rem;
+  position: absolute;
+  left: 8.2rem;
+  top: 167.4rem;
+  background-color: #f1f1e5;
+}
+.dr-tSj .ellipse-1-Xom {
+  width: 8.6rem;
+  height: 8.6rem;
+  position: absolute;
+  left: 158.3rem;
+  top: 120.9rem;
+  background-color: #1097cc;
+  border-radius: 4.3rem;
+}
+.dr-tSj .ellipse-3-GWT {
+  width: 8.6rem;
+  height: 8.6rem;
+  position: absolute;
+  left: 129.6rem;
+  top: 325.2rem;
+  background-color: #000000;
+  border-radius: 4.3rem;
+}
+.dr-tSj .ellipse-4-1D9 {
+  width: 8.6rem;
+  height: 8.6rem;
+  position: absolute;
+  left: 143rem;
+  top: 325.2rem;
+  background-color: #000000;
+  border-radius: 4.3rem;
+}
+.dr-tSj .ellipse-5-JT9 {
+  width: 8.6rem;
+  height: 8.6rem;
+  position: absolute;
+  left: 156.4rem;
+  top: 325.2rem;
+  background-color: #000000;
+  border-radius: 4.3rem;
+}
+.dr-tSj .ellipse-2-1sM {
+  width: 8.6rem;
+  height: 8.6rem;
+  position: absolute;
+  left: 158.3rem;
+  top: 131.8rem;
+  background-color: #23cb6c;
+  border-radius: 4.3rem;
+}
+.dr-tSj .rectangle-12-j2f {
+  width: 175.3rem;
+  height: 113.4rem;
+  position: absolute;
+  left: 0;
+  top: 449.4rem;
+  background-color: #538b27;
+}
+.dr-tSj .ellipse-6-4qd {
+  width: 20.5rem;
+  height: 21.8rem;
+  position: absolute;
+  left: 8.2rem;
+  top: 375.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.dr-tSj .ellipse-7-Cgw {
+  width: 20.5rem;
+  height: 21.8rem;
+  position: absolute;
+  left: 8.2rem;
+  top: 410.9rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.dr-tSj .ellipse-8-vcw {
+  width: 20.5rem;
+  height: 21.8rem;
+  position: absolute;
+  left: 89rem;
+  top: 390.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.dr-tSj .been-on-another-levelsince-you-came-no-more-painyou-look-into-my-eyesyou-cant-recognize-my-faceyoure-in-my-world-nowyou-can-stay-you-can-staybut-you-belong-to-meooh-you-belong-to-me-if-it-hurts-to-breathe-open-a-window-Tcs {
+  width: 44.7rem;
+  height: 20.2rem;
+  position: absolute;
+  left: 33.8rem;
+  top: 375.7rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.4;
+  color: #000000;
+  font-family: Bakbak One, 'Source Sans Pro';
+}
+.dr-tSj .been-on-another-levelsince-you-came-no-more-painyou-look-into-my-eyesyou-cant-recognize-my-faceyoure-in-my-world-nowyou-can-stay-you-can-staybut-you-belong-to-meooh-you-belong-to-me-if-it-hurts-to-breathe-open-a-window-FHq {
+  width: 44.7rem;
+  height: 20.2rem;
+  position: absolute;
+  left: 33.3rem;
+  top: 410.6rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.4;
+  color: #000000;
+  font-family: Bakbak One, 'Source Sans Pro';
+}
+.dr-tSj .been-on-another-levelsince-you-came-no-more-painyou-look-into-my-eyesyou-cant-recognize-my-faceyoure-in-my-world-nowyou-can-stay-you-can-staybut-you-belong-to-meooh-you-belong-to-me-if-it-hurts-to-breathe-open-a-window-3zP {
+  width: 44.7rem;
+  height: 20.2rem;
+  position: absolute;
+  left: 114.8rem;
+  top: 391.6rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.4;
+  color: #000000;
+  font-family: Bakbak One, 'Source Sans Pro';
+}
+.dr-tSj .cvetoshka-1-Htj {
+  width: 176.9rem;
+  height: 135.5rem;
+  position: absolute;
+  left: 80.8rem;
+  top: 122.2rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.dr-tSj .meshok-1-ptf {
+  width: 100.9rem;
+  height: 142.7rem;
+  position: absolute;
+  left: 0;
+  top: 218.8rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.rectangle-16-mZ1 {
+  width: 28.8rem;
+  height: 31rem;
+  position: absolute;
+  left: 10.9rem;
+  top: 274.7rem;
+  background-image: url("https://for-press.ru/wp-content/uploads/2023/03/unnamed.png"); /* Укажите путь к вашей фотографии */
+  background-size: cover !important;
+  background-repeat: no-repeat !important;
+  background-position: center !important;
+}
+
+.portrait {
+  max-width: 100%; /* Максимальная ширина изображения, чтобы оно подстраивалось под контейнер */
+  max-height: 100%; /* Максимальная высота изображения, чтобы оно подстраивалось под контейнер */
+  display: block; /* Убирает лишние отступы вокруг изображения */
+}
+
+.dr-tSj .rectangle-19-Vju {
+  width: 28.8rem;
+  height: 31rem;
+  position: absolute;
+  left: 54.1rem;
+  top: 274.7rem;
+  background-image: url("https://yt3.ggpht.com/ytc/AKedOLSzGoIqFxTGWCPEcvgPUrbcMbGHGlQmBRi5v4O3Gxs=s900-c-k-c0x00ffffff-no-rj"); /* Укажите путь к вашей фотографии */
+  background-size: cover; /* Масштабируем изображение, чтобы оно покрыло блок полностью */
+  background-position: center; /* Выравниваем изображение по центру блока */
+}
+
+
+.dr-tSj .our-team-ESb {
+  width: 30.8rem;
+  height: 31rem;
+  position: relative; /* Изменил позиционирование на relative */
+  text-align: center; /* Выравниваем текст по центру */
+  font-size: 2.4rem;
+  font-weight: 700; /* Добавил жирное начертание */
+  line-height: 1.4;
+  color: #ffffff;
+  font-family: Bakbak One, 'Source Sans Pro';
+  white-space: nowrap;
+  background-size: cover !important;
+  background-repeat: no-repeat !important;
+  background-position: center !important;
+}
+
+
+.dr-tSj .rectangle-21-isZ {
+  width: 50.5rem;
+  height: 31.3rem;
+  position: absolute;
+  left: 64.7rem;
+  top: 167.4rem;
+  background-color: #f1f1e5;
+}
+.dr-tSj .rectangle-21-isZ{
+  margin-top: 0px;
+  }
+.dr-tSj .projects-F6o {
+  width: 23.3rem;
+  height: 140rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 466.4rem;
+  font-size: 20rem;
+  font-weight: 400;
+  line-height: 1.4;
+  color: #f1f1e5;
+  font-family: Bakbak One, 'Source Sans Pro';
+}
+.dr-tSj .social-media-accounts-button-MvX {
+  width: 49.7rem;
+  height: 6.8rem;
+  position: absolute;
+  left: 117.9rem;
+  top: 564.7rem;
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 1.4;
+  color: #000000;
+  font-family: Baloo 2, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.dr-tSj .inst-1-fgK {
+  width: 5.8rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 117.9rem;
+  top: 572.4rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.dr-tSj .button-c5m {
+  width: 55.8rem;
+  height: 6.8rem;
+  position: absolute;
+  left: 7.2rem;
+  top: 570.3rem;
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 1.4;
+  color: #000000;
+  font-family: Baloo 2, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.dr-tSj .what-is-gaia--JzB {
+  width: 29.1rem;
+  height: 6.1rem;
+  position: absolute;
+  left: 19.7rem;
+  top: 179.8rem;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.5019999504;
+  color: #000000;
+  font-family: "Baloo" 2, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toggle-checkbox {
+  display: none;
+}
+
+.toggle-label {
+  cursor: pointer;
+}
+
+.toggle-label img {
+  opacity: 1; /* Изначально изображение видимо */
+  transition: opacity 0.3s; /* Анимация перехода */
+}
+
+.toggle-checkbox:checked + .toggle-label img {
+  opacity: 0.5; /* Изображение прозрачно, когда чекбокс выбран */
+}
+.rectangle-14-button-z9d {
+  /* Стили для вашей кнопки */
+  background-color: #007bff;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  text-align: center;
+  cursor: pointer;
+  display: inline-block;
+}
+
+/* Скрыть ссылку */
+.hidden-link {
+  display: none;
+}
+.toggle-checkbox:checked + .toggle-label + .hidden-link {
+  display: block;
+}
+.rectangle-14-button-z9d .toggle-label {
+  cursor: pointer;
+  font-size: 45px; /* Увеличьте размер шрифта до желаемого значения */
+  color: #000000;
+}
+/* Установка красивого шрифта для кнопки */
+.custom-button {
+  background-color: #007bff; /* Цвет фона кнопки */
+  color: #fff; /* Цвет текста на кнопке */
+  padding: 10px 20px; /* Отступы внутри кнопки */
+  border: none;
+  border-radius: 5px;
+  text-align: center;
+  cursor: pointer;
+  font-family: 'Roboto', sans-serif; /* Устанавливаем красивый шрифт */
+  font-size: 18px; /* Устанавливаем размер шрифта */
+}
+#myButton {
+  background-color: #007bff;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  text-align: center;
+  cursor: pointer;
+  position: relative; /* Добавляем относительное позиционирование */
+}
+
+/* Стиль для скрытого текста */
+#myButton .toggle-label {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  color: transparent; /* Текст скрыт */
+  z-index: 2; /* Положение над текстом */
+}
+.rectangle-21-isZ{
+  width: 29.1rem;
+  height: 6.1rem;
+  position: absolute;
+  left: 19.7rem;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.5019999504;
+  color: #000000;
+  font-family: "Baloo" 2, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.rectangle-21-isZ{
+margin-top: 10px;
+}
+.Da-zaebal {
+  width: 29.1rem;
+  height: 6.1rem;
+  position: absolute;
+  left: 69.7rem; /* Увеличили значение left для перемещения текста вправо */
+  top: 166.8rem;
+  font-size: 2.9rem;
+  font-weight: 400;
+  line-height: 1.5019999504;
+  color: #000000;
+}
+.about-us-button-52f {
+  display: inline-block; /* Делаем элемент блочным, чтобы задать ему размеры и стили */
+  padding: 10px 20px; /* Задаем отступы для кнопки */
+  background-color: #0074D9; /* Задаем цвет фона */
+  color: #fff; /* Задаем цвет текста */
+  text-decoration: none; /* Убираем подчеркивание текста */
+  border: none; /* Убираем границу */
+  border-radius: 5px; /* Делаем закругленные углы */
+  cursor: pointer; /* Задаем курсор при наведении, чтобы выглядело как кнопка */
+  transition: background-color 0.3s, color 0.3s; /* Добавляем плавные переходы цвета при наведении */
+}
+
+.about-us-button-52f {
+  display: inline-block;
+  padding: 12px 24px; /* Задайте желаемые значения для отступов (верх/низ и лево/право) */
+  font-size: 30px; /* Задайте желаемый размер шрифта */
+  background-color: #0074D9;
+  color: #fff;
+  text-decoration: none;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.about-us-button-52f:hover {
+  background-color: #0056b3;
+  color: #fff;
+}
+html {
+  scroll-behavior: smooth;
+}
+.about-us-button-KQs {
+  display: inline-block; /* Делаем элемент блочным, чтобы можно было задать ширину и высоту */
+  padding: 10px 20px; /* Задаем внутренние отступы кнопки */
+  background-color: #007BFF; /* Задаем цвет фона кнопки */
+  color: #ffffff; /* Задаем цвет текста */
+  border: none; /* Убираем границу кнопки */
+  border-radius: 5px; /* Задаем скругленные углы */
+  text-align: center; /* Выравниваем текст по центру */
+  text-decoration: none; /* Убираем подчеркивание у ссылки, если есть */
+  font-size: 16px; /* Задаем размер шрифта */
+  cursor: pointer; /* Делаем курсор видом "указатель", чтобы выглядело как кнопка */
+}
+/* Стили для кнопки */
+.about-us-button-KQs {
+  display: inline-block;
+  padding: 10px 20px;
+  font-size: 1.6rem;
+  font-weight: bold;
+  text-align: center;
+  text-decoration: none;
+  border: none;
+  border-radius: 5px;
+  background-color: #3498db; /* Цвет фона кнопки */
+  color: #ffffff; /* Цвет текста на кнопке */
+  cursor: pointer;
+  transition: background-color 0.3s ease; /* Плавное изменение цвета фона при наведении */
+}
+
+/* Стили для кнопки при наведении */
+.about-us-button-KQsn:hover {
+  background-color: #2980b9; /* Цвет фона при наведении */
+}
+
+/* Стили для кнопки при активации (нажатии) */
+.about-us-button-KQs:active {
+  background-color: #1f6aa6; /* Цвет фона при активации (нажатии) */
+}
